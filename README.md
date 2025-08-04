@@ -45,14 +45,11 @@ Git: https://git-scm.com/downloads
 
 
 Installation
-Clone the repository:
+Clone the repository:  git clone https://github.com/your-username/your-repo.git
 
-git clone https://github.com/your-username/your-repo.git
 cd your-repo
 
-Open the website:
-
-Simply open the index.html file in your favorite web browser.
+Open the website: Simply open the index.html file in your favorite web browser.
 
 ⚙️ Deployment
 
@@ -70,7 +67,7 @@ images/: Replace the placeholder images with your own profile picture and projec
 
 🤝 Contact
 
-Created by James Maina @Mmainajames) - mmainajames@gmail.com
+Created by James Maina @Mmainajames - mmainajames@gmail.com
 
 Feel free to connect with me!
 
